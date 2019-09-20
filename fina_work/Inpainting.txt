@@ -1,0 +1,7 @@
+Image :test_im1.bmp Windows Size :5 Time :1086.48941088 seconds
+Image :test_im1.bmp Windows Size :9 Time :1680.17870116 seconds
+Image :test_im1.bmp Windows Size :11 Time :2082.07063198 seconds
+
+Image :test_im2.bmp Windows Size :5 Time :568.088115931 seconds
+Image :test_im2.bmp Windows Size :9 Time :864.564464092 seconds
+Image :test_im2.bmp Windows Size :11 Time :1060.98718214 seconds

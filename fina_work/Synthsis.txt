@@ -1,0 +1,29 @@
+Texture :T1.gif Windows Size :5 Time :129.313119173 seconds
+Texture :T1.gif Windows Size :9 Time :193.906089067 seconds
+Texture :T1.gif Windows Size :11 Time :251.079768181 seconds
+Texture :T1.gif Windows Size :15 Time :299.481467962 seconds
+Texture :T1.gif Windows Size :21 Time :433.798197031 seconds
+
+Texture :T2.gif Windows Size :5 Time :88.852558136 seconds
+Texture :T2.gif Windows Size :9 Time :121.760793924 seconds
+Texture :T2.gif Windows Size :11 Time :157.60354805 seconds
+Texture :T2.gif Windows Size :15 Time :199.160655022 seconds
+Texture :T2.gif Windows Size :21 Time :275.622393847 seconds
+
+Texture :T3.gif Windows Size :5 Time :89.0545659065 seconds
+Texture :T3.gif Windows Size :9 Time :120.837645054 seconds
+Texture :T3.gif Windows Size :11 Time :161.412675858 seconds
+Texture :T3.gif Windows Size :15 Time :189.354431152 seconds
+Texture :T3.gif Windows Size :21 Time :276.120666981 seconds
+
+Texture :T4.gif Windows Size :5 Time :70.8592510223 seconds
+Texture :T4.gif Windows Size :9 Time :86.9934499264 seconds
+Texture :T4.gif Windows Size :11 Time :115.035634995 seconds
+Texture :T4.gif Windows Size :15 Time :157.621454 seconds
+Texture :T4.gif Windows Size :21 Time :173.944504023 seconds
+
+Texture :T5.gif Windows Size :5 Time :411.663320065 seconds
+Texture :T5.gif Windows Size :9 Time :568.823732138 seconds
+Texture :T5.gif Windows Size :11 Time :694.184584856 seconds
+Texture :T5.gif Windows Size :15 Time :988.866293192 seconds
+Texture :T5.gif Windows Size :21 Time :1520.98673487 seconds

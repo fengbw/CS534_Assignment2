@@ -1,0 +1,9 @@
+Texture :T1.gif Time :104.02799201 seconds
+
+Texture :T2.gif Time :79.6215689182 seconds
+
+Texture :T3.gif Time :81.5578610897 seconds
+
+Texture :T4.gif Time :50.6514790058 seconds
+
+Texture :T5.gif Time :664.048991919 seconds
